@@ -17,11 +17,7 @@ To get a local copy up and running, follow these simple example steps:
 
 ### Installation
 
-1. Clone the repository.
-   ```sh
-   git clone https://github.com/amrendra03/exam_organizer.git
-2. Change directory to `exam_organizer`.
-   cd exam_organizer
+
 3. Run the application using Maven.
 ## Dependencies
 - Spring Boot Starter Thymeleaf
